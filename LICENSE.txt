@@ -1,0 +1,2 @@
+我是一个LICENSE文件
+试试不add和commit，git status是什么状态-显示被修改了
